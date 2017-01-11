@@ -3,5 +3,5 @@
 adding stuff localy	
 =======
 ## made remote change
-a | b
+a | b | c
 >>>>>>> refs/remotes/origin/master
