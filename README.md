@@ -1,4 +1,4 @@
-# test2hhh
+# test2 - another remote change 
 <<<<<<< HEAD
 adding stuff localy	
 =======
