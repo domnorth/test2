@@ -6,3 +6,4 @@ adding stuff localy
 a | b | c
 >>>>>>> refs/remotes/origin/master
 Feature2
+more Feature2 changes
