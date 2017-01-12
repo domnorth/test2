@@ -5,3 +5,4 @@ adding stuff localy
 ## made remote change
 a | b | c
 >>>>>>> refs/remotes/origin/master
+Feature2
