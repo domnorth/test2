@@ -3,12 +3,13 @@
     {
       "id": 12,
       "sku": 12064273040195392,
-      "title": "DOMTEST Cat Tee Black T-Shirt",
-      "description": "4 MSL",
+      "thumbnail": "https://drive.google.com/thumbnail?id=1M8pysbvGWhBAQKlyfTt2JEGuc7ViGs9D",
+      "image1": "https://drive.google.com/thumbnail?id=1M8pysbvGWhBAQKlyfTt2JEGuc7ViGs9D"
+      "title": "Heart Cut",
+      "description": "This poster is awsome",
       "availableSizes": ["S", "XS"],
-      "style": "Black with custom print",
-      "price": 110.9,
-      "installments": 9,
+      "style": "Sharp blade with blodless beating red heart",
+      "price": 20,
       "currencyId": "USD",
       "currencyFormat": "$",
       "isFreeShipping": true
