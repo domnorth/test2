@@ -1,8 +1,7 @@
 {
   "products": [
     {
-      "id": 12,
-      "sku": 12064273040195392,
+      "id": 10,
       "thumbnail": "https://drive.google.com/thumbnail?id=1M8pysbvGWhBAQKlyfTt2JEGuc7ViGs9D",
       "image1": "https://drive.google.com/thumbnail?id=1M8pysbvGWhBAQKlyfTt2JEGuc7ViGs9D",
       "title": "Heart Cut",
@@ -12,9 +11,33 @@
       "price": 20,
       "currencyId": "USD",
       "currencyFormat": "$",
+      "isFreeShipping": false
+    },    {
+      "id": 11,
+      "thumbnail": "https://drive.google.com/thumbnail?id=187rsO1GfuY2s31izLLU37dn1RSigF7LJ",
+      "image1": "https://drive.google.com/thumbnail?id=187rsO1GfuY2s31izLLU37dn1RSigF7LJ",
+      "title": "Verde Ninja Kick",
+      "description": "This poster is awsome",
+      "availableSizes": ["S", "XS"],
+      "style": "Sharp blade with blodless beating red heart",
+      "price": 25,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+    {
+      "id": 12,
+      "thumbnail": "https://drive.google.com/thumbnail?id=1Lv_U4kA5g5RCuNGceYmXprvyNk7jX63S",
+      "image1": "https://drive.google.com/thumbnail?id=1Lv_U4kA5g5RCuNGceYmXprvyNk7jX63S",
+      "title": "Future Birthing",
+      "description": "This poster is awsome",
+      "availableSizes": ["S", "XS"],
+      "style": "Sharp blade with blodless beating red heart",
+      "price": 30,
+      "currencyId": "USD",
+      "currencyFormat": "$",
       "isFreeShipping": true
     },
-
     {
       "id": 13,
       "sku": 51498472915966366,
